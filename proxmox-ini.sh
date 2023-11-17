@@ -1,5 +1,5 @@
 #!/bin/bash
-mv /TcTI/SCRIPTS/proxmox-conf.sh /TcTI/SCRIPTS/proxmox-conf-bkp.sh
-wget https://raw.githubusercontent.com/TcTI-BR/PROXMOX-SCRIPTS/main/proxmox-conf.sh /TcTI/SCRIPTS/proxmox-conf.sh
-chmod +x /TcTI/SCRIPTS/proxmox-conf.sh
-/TcTI/SCRIPTS/proxmox-conf.sh
+mv /PT/SCRIPTS/proxmox-conf.sh /PT/SCRIPTS/proxmox-conf-bkp.sh
+wget www.pontotecnico.com.br/PVE/proxmox-conf.sh /PT/SCRIPTS/proxmox-conf.sh
+chmod +x /PT/SCRIPTS/proxmox-conf.sh
+/PT/SCRIPTS/proxmox-conf.sh
